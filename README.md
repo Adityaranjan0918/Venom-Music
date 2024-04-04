@@ -1,5 +1,6 @@
   <p align="center"><a href="https://t.me/ITZ_IND_CODER"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
-  <h1 align="center"><b>[✨🥀] VENOM-MUSIC BOT🫧 [✨🥀]</b></h1>
+  
+  <h1 align="center"><b>[✨🥀] VENOM-MUSIC🫧 [✨🥀]</b></h1>
 
 <h4 align="center"> A POWERFULL TELEGRAM MUSIC BOT</h4>
 
